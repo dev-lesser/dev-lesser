@@ -14,6 +14,7 @@
 <img src="https://camo.githubusercontent.com/380928bec5f5533126b61bec31f253486e54dddf92ad0fc1a3633064920601c1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3333393933333f7374796c653d666c6174266c6f676f3d6e6f64652d646f742d6a73266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Node.js-339933?style=flat&amp;logo=node-dot-js&amp;logoColor=white" style="max-width:100%;">
 <img src="https://camo.githubusercontent.com/e7585a6b211d30cc04286a2cb34341089c4daea1a70c32b2432c107598d0f3bd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5675652e6a732d3446433038443f7374796c653d666c6174266c6f676f3d7675652d646f742d6a73266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&amp;logo=vue-dot-js&amp;logoColor=white" style="max-width:100%;">
 <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat&amp;&logo=Vuetify&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=flat&amp;&logo=node-dot-js&logoColor=white"/></a>&nbsp;
 
 ### Library
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&amp;&logo=TensorFlow&logoColor=white"/></a>&nbsp;
