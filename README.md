@@ -12,19 +12,13 @@
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&amp;&logo=Go&logoColor=white"/></a>&nbsp;
 <img src="https://camo.githubusercontent.com/c5df1204f5d67f012364465944cba6d3db0bd644ae75c8f366d973dc4448cff8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666c6174266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d626c61636b" data-canonical-src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&amp;logo=JavaScript&amp;logoColor=black" style="max-width:100%;">
 <img src="https://camo.githubusercontent.com/380928bec5f5533126b61bec31f253486e54dddf92ad0fc1a3633064920601c1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3333393933333f7374796c653d666c6174266c6f676f3d6e6f64652d646f742d6a73266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Node.js-339933?style=flat&amp;logo=node-dot-js&amp;logoColor=white" style="max-width:100%;">
-
-
-
-<!-- VueJS -->
 <img src="https://camo.githubusercontent.com/e7585a6b211d30cc04286a2cb34341089c4daea1a70c32b2432c107598d0f3bd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5675652e6a732d3446433038443f7374796c653d666c6174266c6f676f3d7675652d646f742d6a73266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&amp;logo=vue-dot-js&amp;logoColor=white" style="max-width:100%;">
-<!-- Vuetify -->
 <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat&amp;&logo=Vuetify&logoColor=white"/></a>&nbsp;
 
 ### Library
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&amp;&logo=TensorFlow&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&amp;&logo=FastAPI&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/GraphQL-E434AA?style=flat&amp;&logo=GraphQL&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Apollo-311C87?style=flat&amp;&logo=Apollo GraphQL&logoColor=white"/></a>&nbsp;
 
 
 ### Database
@@ -33,12 +27,11 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&amp;&logo=MongoDB&logoColor=white"/></a>&nbsp;
 
 ### Else
-<img src="https://img.shields.io/badge/Kafka-231F20?style=flat&amp;&logo=Apache Kafka&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&amp;&logo=Elasticsearch&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/NGINX-009639?style=flat&amp;&logo=NGINX&logoColor=white"/></a>&nbsp;
 <img src="https://camo.githubusercontent.com/cd90923c1af3996af6ca91a49ef54423cc343e8fcafebeaf1374457f0c5a0dc0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b65722d3234393645443f7374796c653d666c6174266c6f676f3d446f636b6572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Docker-2496ED?style=flat&amp;logo=Docker&amp;logoColor=white" style="max-width:100%;">
 <img src="https://camo.githubusercontent.com/493683d1e69c600dc04bb375ab588466c554471ea28f7326b390b5103c401058/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666c6174266c6f676f3d476974266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Git-F05032?style=flat&amp;logo=Git&amp;logoColor=white" style="max-width:100%;">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&amp;&logo=Amazon AWS&logoColor=white"/></a>&nbsp;
+
 <!--
 **dev-Lesser/dev-Lesser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
